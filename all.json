@@ -30,6 +30,21 @@
       "original_name": "The Unkown",
       "character_img_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/51/K35_TheUnknown_Portrait.png"
     },
+        {
+      "character_name": "S42",
+      "original_name": "The Troupe",
+      "character_img_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/S42_TheTroupe_Portrait.png"
+    },
+    {
+      "character_name": "K36",
+      "original_name": "The Lich",
+      "character_img_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f0/K36_TheLich_Portrait.png"
+    },
+    {
+      "character_name": "Dwight",
+      "original_name": "Dwight Fairfield",
+      "character_img_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/S01_DwightFairfield_Portrait.png"
+    },
     
   ]
 }
