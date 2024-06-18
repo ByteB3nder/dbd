@@ -1,169 +1,29 @@
 {
   "CharacterImages": [
     {
-      "character_name": "Trapper",
-      "original_name": "Evan MacMillan",
-      "character_img_url": "https://gcdnb.pbrd.co/images/1Trapper.png"
-    },
-    {
-      "character_name": "Wraith",
-      "original_name": "Philip Ojomo",
-      "character_img_url": "https://gcdnb.pbrd.co/images/2Wraith.png"
-    },
-    {
-      "character_name": "Hillbilly",
-      "original_name": "Max Thompson Jr.",
-      "character_img_url": "https://gcdnb.pbrd.co/images/3Hillbilly.png"
-    },
-    {
-      "character_name": "Nurse",
-      "original_name": "Sally Smithson",
-      "character_img_url": "https://gcdnb.pbrd.co/images/4Nurse.png"
-    },
-    {
-      "character_name": "Shape",
-      "original_name": "Michael Myers",
-      "character_img_url": "https://gcdnb.pbrd.co/images/5Shape.png"
-    },
-    {
-      "character_name": "Hag",
-      "original_name": "Lisa Sherwood",
-      "character_img_url": "https://gcdnb.pbrd.co/images/6Hag.png"
-    },
-    {
-      "character_name": "Doctor",
-      "original_name": "Herman Carter",
-      "character_img_url": "https://gcdnb.pbrd.co/images/7Doctor.png"
-    },
-    {
-      "character_name": "Huntress",
-      "original_name": "Anna",
-      "character_img_url": "https://gcdnb.pbrd.co/images/8Huntress.png"
-    },
-    {
       "character_name": "Cannibal",
-      "original_name": "Bubba Sawyer",
-      "character_img_url": "https://gcdnb.pbrd.co/images/9Cannibal.png"
+      "original_name": "Cannibal",
+      "character_img_url": "https://pasteboard.co/W5RCMivSd6my.png"
     },
     {
-      "character_name": "Nightmare",
-      "original_name": "Freddy Krueger",
-      "character_img_url": "https://gcdnb.pbrd.co/images/10Nightmare.png"
+      "character_name": "K22",
+      "original_name": "Wraith",
+      "character_img_url": "https://pasteboard.co/LXYk2gOycM8B.png"
     },
     {
-      "character_name": "Pig",
-      "original_name": "Amanda Young",
-      "character_img_url": "https://gcdnb.pbrd.co/images/11Pig.png"
+      "character_name": "K05",
+      "original_name": "Shape",
+      "character_img_url": "https://pasteboard.co/WLb4SJJOuKw7.png"
     },
     {
-      "character_name": "Clown",
-      "original_name": "Jeffrey Hawk",
-      "character_img_url": "https://gcdnb.pbrd.co/images/12Clown.png"
+      "character_name": "K08",
+      "original_name": "The Huntress",
+      "character_img_url": "https://pasteboard.co/OsXrBG3XXsqq.png"
     },
     {
-      "character_name": "Spirit",
-      "original_name": "Rin Yamaoka",
-      "character_img_url": "https://gcdnb.pbrd.co/images/13Spirit.png"
-    },
-    {
-      "character_name": "Legion",
-      "original_name": "Frank, Julie, Susie, Joey",
-      "character_img_url": "https://gcdnb.pbrd.co/images/14Legion.png"
-    },
-    {
-      "character_name": "Plague",
-      "original_name": "Adiris",
-      "character_img_url": "https://gcdnb.pbrd.co/images/15Plague.png"
-    },
-    {
-      "character_name": "Ghost Face",
-      "original_name": "Danny Johnson",
-      "character_img_url": "https://gcdnb.pbrd.co/images/16GhostFace.png"
-    },
-    {
-      "character_name": "Demogorgon",
-      "original_name": "Demogorgon",
-      "character_img_url": "https://gcdnb.pbrd.co/images/17Demogorgon.png"
-    },
-    {
-      "character_name": "Oni",
-      "original_name": "Kazan Yamaoka",
-      "character_img_url": "https://gcdnb.pbrd.co/images/18Oni.png"
-    },
-    {
-      "character_name": "Deathslinger",
-      "original_name": "Caleb Quinn",
-      "character_img_url": "https://gcdnb.pbrd.co/images/19Deathslinger.png"
-    },
-    {
-      "character_name": "Executioner",
-      "original_name": "Pyramid Head",
-      "character_img_url": "https://gcdnb.pbrd.co/images/20Executioner.png"
-    },
-    {
-      "character_name": "Blight",
-      "original_name": "Talbot Grimes",
-      "character_img_url": "https://gcdnb.pbrd.co/images/21Blight.png"
-    },
-    {
-      "character_name": "Twins",
-      "original_name": "Charlotte & Victor Deshayes",
-      "character_img_url": "https://gcdnb.pbrd.co/images/22Twins.png"
-    },
-    {
-      "character_name": "Trickster",
-      "original_name": "Ji-Woon Hak",
-      "character_img_url": "https://gcdnb.pbrd.co/images/23Trickster.png"
-    },
-    {
-      "character_name": "Nemesis",
-      "original_name": "Nemesis-T Type",
-      "character_img_url": "https://gcdnb.pbrd.co/images/24Nemesis.png"
-    },
-    {
-      "character_name": "Cenobite",
-      "original_name": "Pinhead",
-      "character_img_url": "https://gcdnb.pbrd.co/images/25Cenobite.png"
-    },
-    {
-      "character_name": "Artist",
-      "original_name": "Carmina Mora",
-      "character_img_url": "https://gcdnb.pbrd.co/images/26Artist.png"
-    },
-    {
-      "character_name": "Onryo",
-      "original_name": "Sadako Yamamura",
-      "character_img_url": "https://gcdnb.pbrd.co/images/27Onryo.png"
-    },
-    {
-      "character_name": "Dredge",
-      "original_name": "The Dredge",
-      "character_img_url": "https://gcdnb.pbrd.co/images/28Dredge.png"
-    },
-    {
-      "character_name": "Mastermind",
-      "original_name": "Albert Wesker",
-      "character_img_url": "https://gcdnb.pbrd.co/images/29Mastermind.png"
-    },
-    {
-      "character_name": "Knight",
-      "original_name": "Tarhos Kovács",
-      "character_img_url": "https://gcdnb.pbrd.co/images/30Knight.png"
-    },
-    {
-      "character_name": "Skull Merchant",
-      "original_name": "Adriana Imai",
-      "character_img_url": "https://gcdnb.pbrd.co/images/31SkullMerchant.png"
-    },
-    {
-      "character_name": "Singularity",
-      "original_name": "HUX-A7-13",
-      "character_img_url": "https://gcdnb.pbrd.co/images/32Singularity.png"
-    },
-    {
-      "character_name": "Xenomorph",
-      "original_name": "Xenomorph",
-      "character_img_url": "https://gcdnb.pbrd.co/images/33Xenomorph.png"
+      "character_name": "K29",
+      "original_name": "Wesker",
+      "character_img_url": "https://gcdnb.pbrd.co/images/x7ukoWmKum5f.png?o=1"
     }
   ]
 }
