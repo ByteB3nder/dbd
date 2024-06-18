@@ -1,4 +1,12 @@
 {
-  "character_name": "Cannibal",
-  "character_img_url": "https://file.removal.ai/preview/e9f5d5f5-f5fd-476f-bd33-ff847bdb1af5-dbd_survivor_claudette_only_92c9dc3504.png"
+  "CharacterImages": [
+    {
+      "character_name": "Cannibal",
+      "character_img_url": "https://file.removal.ai/preview/e9f5d5f5-f5fd-476f-bd33-ff847bdb1af5-dbd_survivor_claudette_only_92c9dc3504.png"
+    },
+    {
+      "character_name": "Claudette",
+      "character_img_url": "https://img/x.png"
+    }
+  ]
 }
