@@ -45,6 +45,40 @@
       "original_name": "Dwight Fairfield",
       "character_img_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/S01_DwightFairfield_Portrait.png"
     },
-    
+    {
+      "character_name": "Meg",
+      "original_name": "Meg",
+      "character_img_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/35/S02_MegThomas_Portrait.png"
+    },
+    {
+      "character_name": "Claudette",
+      "original_name": "Claudette",
+      "character_img_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c2/S03_ClaudetteMorel_Portrait.png"
+    },
+    {
+      "character_name": "Chuckles",
+      "original_name": "Trapper",
+      "character_img_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/81/K01_TheTrapper_Portrait.png"
+    },
+    {
+      "character_name": "Bob",
+      "original_name": "The Wraith",
+      "character_img_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c2/K02_TheWraith_Portrait.png"
+    },
+    {
+      "character_name": "HillBilly",
+      "original_name": "HillBilly",
+      "character_img_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/K03_TheHillbilly_Portrait.png"
+    },
+    {
+      "character_name": "Witch",
+      "original_name": "Mikaela Reid",
+      "character_img_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3f/S28_MikaelaReid_Portrait.png"
+    },
+    {
+      "character_name": "Jake",
+      "original_name": "Jake",
+      "character_img_url": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/18/S04_JakePark_Portrait.png"
+    },
   ]
 }
